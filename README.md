@@ -1,29 +1,37 @@
-## Hi, I'm Suporno Maiti
+<div align="center">
+  <h1>Hi, I'm Suporno Maiti 👋</h1>
+  <p><i>B.Tech in Information Technology | System-Level Programming in C/C++</i></p>
+</div>
 
-B.Tech in Information Technology  
-Primary language: C++
+---
 
-### What I focus on
-- Data Structures & Algorithms using C++
-- Core computer science concepts
-- Writing clean, readable, and well-structured code
+### 🎯 What I focus on
 
-### What you’ll find on my GitHub
-- C++ implementations of fundamental data structures and algorithms
-- Concept-driven repositories (not random problem dumps)
-- Code written with clarity, comments, and complexity analysis
+- **System-level programming** and building developer tools
+- Practical applications of **core computer science** concepts
+- Writing **clean, robust, and well-structured C and C++ code**
 
-### Current work
-- Building a structured C++ codebase for DSA
-- Converting theoretical concepts into practical implementations
+### 📂 What you’ll find on my GitHub
 
-### Tech stack
-- Languages: C++
-- Tools: Git, GitHub, Linux
-- Editors/IDEs: VS Code, CLion
+- **System projects**, such as custom command-line shells and utilities
+- **Concept-driven repositories** focusing on low-level architecture
+- Code built with a strong emphasis on **clarity, modularity, and memory management**
 
-### Contact
-- Email: supornomaiti@protonmail.com
+### 🚀 Current work
+
+- Developing a **custom shell** with core command-line features
+- Exploring **C and C++ internals**, along with system architecture
+
+### 💻 Tech stack
+
+- **Languages:** C, C++
+- **Tools:** Linux, Git, GitHub
+- **Editors/IDEs:** VS Code, CLion
+
+### 📫 Contact
+
+- Email: [supornomaiti@protonmail.com](mailto:supornomaiti@protonmail.com)
+- Portfolio: [suporno-maiti.vercel.app](https://suporno-maiti.vercel.app)
 <!---
 SupornoMaiti/SupornoMaiti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
